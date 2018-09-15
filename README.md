@@ -3,10 +3,12 @@ Aldos-anaconda is the program which is used to install ALDOS. It's based on Fedo
 
 To install just run:
 
+``
 autoreconf -fi
 ./configure --prefix=/usr
 make
 make install
+``
 
 Things to be done:
 
