@@ -6,10 +6,14 @@ To install just run:
 ``
 autoreconf -fi
 
+``
+``
 ./configure --prefix=/usr
-
+``
+``
 make
-
+``
+``
 make install
 ``
 
